@@ -3,7 +3,7 @@
 ## Deploy da aplicação
 
 ```
-http://personaltaskslist.herokuapp.com/
+https://personaltaskslist.herokuapp.com/
 ```
 
 ## Backend
